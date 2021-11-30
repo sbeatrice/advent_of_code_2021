@@ -6,8 +6,7 @@ The advent calendar with the puzzles can be found [here](https://adventofcode.co
 
 Join the fun, sign up for a day or commit your solutions spontaneously and let's try to solve as many puzzles as possible.
 
-<img src="aoc_hat.png"
-     alt="Markdown Monster icon"
+<img src="resources/aoc_hat.png"
      style="float: left; margin-right: 10px; width: 700px" />
      
 
